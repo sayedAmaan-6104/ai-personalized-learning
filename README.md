@@ -29,8 +29,7 @@ npm start
 ![alt text](public/image.png)
 ![alt text](public/image-1.png)
 ![alt text](public/image-2.png)
-## Demo Video
-[https://www.youtube.com/watch?v=v-dP18RBArc](https://www.youtube.com/watch?v=v-dP18RBArc)
+
 
 ## What Exactly will this Platform do?
 We are creating a web based platform, where users can get personalized roadmaps along with resources to learn something new. The platform will also track and visualize progress of the user.
